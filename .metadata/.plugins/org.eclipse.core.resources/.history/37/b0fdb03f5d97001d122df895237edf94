@@ -1,0 +1,13 @@
+package br.com.javaunit.test;
+
+import br.com.javaunit.Calculadora;
+
+public class CalculadoraTest {
+
+	public void somaDoisNumeros() {
+		
+		Calculadora calc = new Calculadora();
+		
+		int somar = calc.somar(1, 5);
+	}
+}

@@ -1,0 +1,11 @@
+package br.com.javaunit.test;
+
+public class CalculadoraTest {
+
+	public void somaDoisNumeros() {
+		
+		Calculadora calc = new Calculadora();
+		
+		int soma = calc.soma(1, 5);
+	}
+}

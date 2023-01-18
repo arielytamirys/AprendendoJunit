@@ -1,0 +1,5 @@
+package br.com.medicall.api.controller;
+
+public class MedicoController {
+
+}

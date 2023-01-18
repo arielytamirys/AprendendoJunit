@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author REURBI
+ *
+ */
+module javaunit {
+	requires org.junit.jupiter.api;
+}
